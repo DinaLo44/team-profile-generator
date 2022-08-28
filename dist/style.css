@@ -9,11 +9,15 @@ header {
 
 }
 
+body {
+    background-color:bisque;
+}
 main {
     margin: 20px;
     padding: 20px;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .card {
@@ -30,11 +34,6 @@ main {
 .list-group {
     color: blue;
 }
-
-/* .list-group-item {
-    white-space: nowrap;
-    overflow: visible;
-} */
 
 #email {
     color:crimson;

@@ -4,7 +4,7 @@ function generateEmployeeHtml(employees) {
     const createManagerCard = (manager) => {
         let managerHtml =
         `
-        <div class="card" style="width: 25px">
+        <div class="card">
         <div class="card-header">
             ${manager.name} <br>
             <i class="fas fa-mug-hot"></i>Manager
@@ -22,7 +22,7 @@ function generateEmployeeHtml(employees) {
  const createEngineerCard = (engineer) => {
     let engineerHtml = 
     `
-    <div class="card" style="width: 25px">
+    <div class="card">
         <div class="card-header">
             ${engineer.name} <br>
             <i class="fas fa-glasses"></i>Engineer
@@ -41,7 +41,7 @@ function generateEmployeeHtml(employees) {
  const createInternCard = (intern) => {
     let internHtml =
     `
-    <div class="card" style="width: 25px">
+    <div class="card">
         <div class="card-header">
             ${intern.name} <br>
             <i class="fas fa-user-graduate"></i>Intern
@@ -50,7 +50,7 @@ function generateEmployeeHtml(employees) {
             <li class="list-group-item">Employee ID: ${intern.id}</li>
             <li class="list-group-item">Email address: <span id="email"><a href="mailto:${intern.email}">${intern.email}</a></span>
             </li>
-            <li class="list-group-item">School:${intern.github}</li>
+            <li class="list-group-item">School:${intern.school}</li>
         </ul>
     </div>
     `;
