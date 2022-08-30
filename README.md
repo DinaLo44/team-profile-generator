@@ -9,7 +9,7 @@ In order to start this application the user will have to type the commands "node
 With this application, the user will be able to generate a website of the aformentioned nature in an efficient and timely manner. 
 
 # Technologies:
-The technologies used to build this application are HTML, CSS, Bootstrap, JavaScript, Node.js, and the testing framework called Jest and the command line interface for Node.js called Inquirer.
+The technologies used to build this application are HTML, CSS, Bootstrap, JavaScript, Node.js, the testing framework called Jest and the command line interface for Node.js called Inquirer.
 
 With the technology of "Jest", the user can be certain that the application will run successfully and all the information that was provided through the "Inquirer" interface will be saved and will generate a webpage for its team.
 
