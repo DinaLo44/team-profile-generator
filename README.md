@@ -14,7 +14,7 @@ The technologies used to build this application are HTML, CSS, Bootstrap, JavaSc
 With the technology of "Jest", the user can be certain that the application will run successfully and all the information that was provided through the "Inquirer" interface will be saved and will generate a webpage for its team.
 
 # Screenshot:
-![sample-html.png)(https://github.com/DinaLo44/team-profile-generator/blob/main/screenshot/sample-html.png)
+![sample-html)(https://github.com/DinaLo44/team-profile-generator/blob/main/screenshot/sample-html.png)
 
 
 # Demo video link:
