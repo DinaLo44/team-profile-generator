@@ -100,7 +100,7 @@ const internPrompt = () => {
     inquirer.prompt([
         {
             type: 'input',
-            message: 'What is name of the intern?',
+            message: 'What is the name of the intern?',
             name: 'name'
         },
         {

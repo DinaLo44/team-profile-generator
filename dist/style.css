@@ -1,6 +1,6 @@
 header {
-    background-color: cadetblue;
-    color: darkblue;
+    background-color:blue;
+    color:antiquewhite;
     margin: 20px;
     padding: 20px;
     font-size: 30px;
@@ -26,8 +26,8 @@ main {
 }
 
 .card-header {
-    background-color: lightsalmon;
-    color: lightseagreen;
+    background-color:blue;
+    color:antiquewhite;
     font-size: 20px;
 }
 
@@ -35,6 +35,3 @@ main {
     color: blue;
 }
 
-#email {
-    color:crimson;
-}
