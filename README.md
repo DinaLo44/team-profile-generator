@@ -20,6 +20,7 @@ With the technology of "Jest", the user can be certain that the application will
 # Demo video link:
 
 
-# GitHub repository:
+# GitHub repository link:
+https://github.com/DinaLo44/team-profile-generator
 
 
