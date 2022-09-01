@@ -18,7 +18,7 @@ With the technology of "Jest", the user can be certain that the application will
 
 
 # Demo video link:
-
+https://drive.google.com/file/d/1ONUPcBmpjfiPfu4vYC3Swj7jrSD0KFxk/view
 
 # GitHub repository link:
 https://github.com/DinaLo44/team-profile-generator
